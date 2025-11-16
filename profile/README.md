@@ -1,4 +1,4 @@
-# 2025 새싹 해커톤
+# 2025 새싹 해커톤 - '대 선 린' 팀
 
 ## 팀원
 - Frontend - [정우진 (@jungwj0706)](https://github.com/jungwj0706)
